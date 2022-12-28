@@ -7,7 +7,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/553426763422629905/1055974019763019837/Design_sem_nome_2.gif?width=369&height=369">
+    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/553426763422629905/1057717442815729805/Design_sem_nome.gif?width=406&height=406">
 </div>
   
   ##
