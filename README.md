@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D7BFDC&size=35&center=true&vCenter=true&width=1000&lines=Olá,+aqui+é+a+Jessy!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c35b7b&size=25&left=true&vLeft=true&width=1000&lines=Olá,+aqui+é+a+Jessy!🌼)](https://git.io/typing-svg)
 
-[![jessyferrs's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jessyferrs&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/jessyferrs/jessyferrs)
+[![jessyferrs's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jessyferrs&layout=compact&show_icons=true&theme=dracula)](https://github.com/jessyferrs/jessyferrs)
 
-[![jessyferrs's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessyferrs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/jessyferrs/jessyferrs)
+[![jessyferrs's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessyferrs&count_private=true&show_icons=true&theme=dracula)](https://github.com/jessyferrs/jessyferrs)
 
 
 
